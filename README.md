@@ -1,5 +1,4 @@
 # Hello_World
-Getting Started
 
 Getting Started,
 
